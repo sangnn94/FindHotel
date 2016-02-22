@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+    <TextView
+        android:gravity="center_horizontal"
+        android:id="@+id/text_view"
+        android:textSize="20sp"
+        android:text="Đồ Án Phát Triển Ứng Dụng Trên Thiết Bị Di Động.\n\nỨng dụng Find Hotel\n\n\t\tGiáo Viên: Trần Mạnh Hùng.\n\nNguyễn Ngân Sang - 12520691\nNguyễn Thanh Hải - 12520581"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

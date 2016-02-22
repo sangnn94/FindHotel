@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Find Hotel</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parse_app_id">fLL8qDnbw8uJhwiCnsG7ivhuIkCj3lD51EK2d8vz</string>
+    <string name="parse_client_id">yDPf3UGKxh7n8DOXgE5x3fBQtGLDA42yHAVo6LBN</string>
+    <string name="user_email">Email</string>
+    <string name="user_name">Username</string>
+    <string name="user_password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="upload">Upload</string>
+    <string name="log_out">Logging Out</string>
+    <array name="test">
+    </array>
+</resources>

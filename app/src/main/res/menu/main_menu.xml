@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sign_out_menu"
+        android:orderInCategory="101"
+        android:title="Sign Out"/>
+
+    <item
+        android:id="@+id/about_menu"
+        android:orderInCategory="102"
+        android:title="About Us"/>
+
+    <item
+        android:id="@+id/map_menu"
+        android:icon="@drawable/ic_map"
+        android:title="Location"
+        app:showAsAction="ifRoom"/>
+</menu>
